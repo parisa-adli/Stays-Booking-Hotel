@@ -5,8 +5,8 @@ A hotel and short-stay discovery app built with React and Vite. Search a destina
 Listing data is a static snapshot from [Inside Airbnb](https://insideairbnb.com/get-the-data/) (CC BY 4.0). **This is a demo:** it does not take bookings, and prices are snapshot prices, not live rates.
 
 ![Home Page](public/home-page.png)
-![Home Page](public/search.png)
-![Home Page](public/bookmarks.png)
+![Search](public/search.png)
+![Bookmarks](public/bookmarks.png)
 
 ## Features
 
